@@ -1,0 +1,8 @@
+{
+  "name": "qrati",
+  "app_id": "240ccf7b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
